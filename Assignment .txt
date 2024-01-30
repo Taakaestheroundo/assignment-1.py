@@ -1,0 +1,26 @@
+Flask is a light weight web development frame work for python.
+it was developed in 2010 by amin Ronacher.
+Flask runs on the engine templet jinja2, and works on the principle of WSGI(web server Gateway Interface).
+
+PRE-REQUISTES OF Flask
+1.python
+2.pip
+3.virtual environment
+
+
+
+APPLICATION OF Flask
+1.web Application
+2.websites
+3.API development
+
+DEMERITS OF USING python
+1.scalability
+2.it has few in built features
+3.it has limited built in tools
+
+MERITES OF USING PYTHON
+1.its light weight
+its flexible
+2.simple
+3.Extensible
